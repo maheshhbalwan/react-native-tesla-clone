@@ -30,7 +30,7 @@ export default function Page() {
     <View style={styles.container}>
       <View style={styles.header}>
         <View>
-          <Text style={styles.title}>My model S</Text>
+          <Text style={styles.title}>Maheshh Balwan's Tesla</Text>
           <Text style={styles.subtitle}>Parked</Text>
         </View>
         <FontAwesome name="user-circle" size={30} color="gray" />
