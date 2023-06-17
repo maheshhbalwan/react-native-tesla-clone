@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "react-native-tesla-clone",
-    "slug": "react-native-tesla-clone"
+    "slug": "react-native-tesla-clone",
+    "extra": {
+      "eas": {
+        "projectId": "c85b3ee0-94ac-4a9a-8c3c-3d33b95d128b"
+      }
+    },
+    "android": {
+      "package": "com.maheshhbalwan.reactnativeteslaclone"
+    }
   }
 }
